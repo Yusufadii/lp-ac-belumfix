@@ -1052,17 +1052,12 @@
     }
     @media only screen and (max-width: 414px) {
 
-        .imgf3{
-            max-width: 10px;
-            width: 100%;
-        }
-
         .jempol{
             position: relative;
             max-width: 200px;
             width: 100%;
             margin-left: 200px;
-            margin-top: -800px;
+            margin-top: 30px;
         }
 
         .header-titlef5{
@@ -1070,17 +1065,31 @@
         }
 
         .titlef5{
-           margin-left: 100px;
+           margin-left: 200px;
            margin-top: -40px;
+           max-width: 200px;
+           width: 100%;
+        }
+        
+        .checklistf5{
+            max-width: 50px;
+            margin-left: 55%;
+            width: 100%
         }
 
         .checkf5{
-            
+
         }
 
         .titlef9{
             margin-top: -40px;
             margin-left: 120px;
+        }
+
+        .titlef7{
+            max-width: 300px;
+            width: 100%;
+            margin-left: 40px;
         }
 
         .checklistf8{
@@ -1129,6 +1138,38 @@
         .sub-titlef11{
             font-size: 8vw;
             margin-bottom: 50px;
+        }
+
+        .frame-4{
+            
+        }
+
+        .titlef4{
+            font-size: 4vw;
+        }
+
+        .text-effect{
+            position: absolute;
+            width: 400px;
+            height: 100px;
+            left: 10px;
+            top: 120px;
+        }
+
+        .text-effect4{
+            position: absolute;
+            width: 350px;
+            height: 50px;
+            left: 30px;
+            top: 750px;
+        }
+
+        .text-effect2{
+            position: absolute;
+            width: 350px;
+            height: 50px;
+            left: 30px;
+            top: 90px;
         }
     }
     
